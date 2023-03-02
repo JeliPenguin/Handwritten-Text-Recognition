@@ -4,6 +4,6 @@
 - To correctly segment out individual letters within the given hand-written text, which may be cursive, messy or the combination of the both, I have learned the concepts and implemented various image pre-processing techniques and algorithms such as the watershed algorithm, the distance transform operators to name a few.
 - Detail of the project is well documented in the **NEA project report v2019.pdf**
 
-# Run the program
-- Execute the command *pip -r requirements.txt* to install required libraries
-- Run main.py
+# To run the program
+1. Execute the command **pip -r requirements.txt** to install required libraries
+2. Run **main.py** and then follow instructions on the GUI
