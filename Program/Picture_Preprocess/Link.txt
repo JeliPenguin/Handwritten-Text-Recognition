@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/44752240/how-to-remove-shadow-from-scanned-images-using-opencv
+
+https://stackoverflow.com/questions/28677544/how-do-i-display-the-contours-of-an-image-using-opencv-python
